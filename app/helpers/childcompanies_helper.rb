@@ -1,0 +1,2 @@
+module ChildcompaniesHelper
+end

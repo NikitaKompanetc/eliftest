@@ -1,0 +1,1 @@
+json.array! @childcompanies, partial: 'childcompanies/childcompany', as: :childcompany

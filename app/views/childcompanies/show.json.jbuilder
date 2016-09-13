@@ -1,0 +1,1 @@
+json.partial! "childcompanies/childcompany", childcompany: @childcompany
